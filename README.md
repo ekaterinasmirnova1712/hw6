@@ -20,3 +20,8 @@
 
 ![]( https://github.com/ekaterinasmirnova1712/hw6/blob/master/question.PNG)
 
+### 2. Сравнение дополнений, употребляющихся с синонимичными глаголами "ponder" и "contemplate"
+
+Оба глагола могут употребляться с дополнением "**meaning**". Исключительно с глаголом "***ponder***" употребляются такие дополнения, как "**significance**" и "**fate**", в то время, как для глагола "***contemplate***" характерны следующие дополнения: "**retirement**", "**marriage**", "**suicide**".
+
+![]( https://github.com/ekaterinasmirnova1712/hw6/blob/master/ponder%20vs.%20contemplate.PNG)
